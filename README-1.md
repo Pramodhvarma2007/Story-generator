@@ -16,7 +16,7 @@ A simple AI-powered story generator built in Google Colab using the Google Gemin
 ## Tech Stack
 
 - Python
-- Google Colab / Jupyter Notebook
+- Google Colab
 - Google Gemini API (`google-genai` library)
 
 ## Installation
